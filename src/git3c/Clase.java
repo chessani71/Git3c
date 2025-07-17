@@ -10,5 +10,8 @@ package git3c;
  */
 public class Clase {
     //Inicial
+    public void mensaje(){
+        System.out.println("Mensaje");
+    }
     
 }
