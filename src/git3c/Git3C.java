@@ -6,7 +6,8 @@ package git3c;
 
 /**
  *
- * @author chess
+ * @author David Hernández Chessani
+ * chess
  */
 public class Git3C {
 
